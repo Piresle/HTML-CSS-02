@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(181, 221, 223);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: rgb(3, 3, 73);
+}
+
+h1#principal {
+    text-align: center;
+    background-color: bisque;
+}
+
+h2 {
+    color: darkblue;
+}
+
+.basico {
+    color: purple;
+    font-style: italic;
+}
+
+h2.intermediario {
+    color: rgb(101, 61, 139);
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.avancado {
+    color: rgb(138, 71, 151);
+    font-style: italic;
+}
+
+.destaque {
+    background-color: rgb(230, 175, 108);
+    font-style: normal;
+}
+
+p {
+    text-align: justify;
+}
+
